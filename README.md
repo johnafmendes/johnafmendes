@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnafmendes
-- 👀 I’m interested in PHP Development
+- 👀 I’m interested in PHP and Java Development
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me johnafmendes@gmail.com
