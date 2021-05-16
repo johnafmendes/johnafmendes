@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @johnafmendes
+- 👋 Hi, I’m @johnafmendes (John Mendes)
 - 👀 I’m interested in PHP and Java Development
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me johnafmendes@gmail.com
 
 <!---
